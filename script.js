@@ -6,7 +6,7 @@ function Areac(){
 
 function Areaci(){
     let num1 =Number(document.getElementById ('n1').value);
-    let respuesta2= num1^2 * 3.1416;
+    let respuesta2= num1^2 * 3.14;
     document.getElementById('respuesta2').value = respuesta2;
     
 }
